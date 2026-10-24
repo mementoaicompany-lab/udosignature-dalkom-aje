@@ -13,5 +13,11 @@
     "우도 달콤아재",
     "Dalkom Aje"
   ],
-  "indexNowKey": "37969df494184c9d9cec79f516371ab0"
+  "indexNowKey": "37969df494184c9d9cec79f516371ab0",
+  "visitorCounter": {
+    "site": "dalkom",
+    "startedAt": "2026-10-24",
+    "timezone": "Asia/Seoul",
+    "counting": "browser-per-day"
+  }
 }
